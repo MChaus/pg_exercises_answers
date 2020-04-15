@@ -14,6 +14,12 @@ Each file has one implemented query for each exercise.
 - [String](string/) - this chapter covers PostgreSQL string functionality and use of regular expressions.
 - [Recursive](recursive/) - this chapter covers recursive queries on graph-structured data.
 
+### Schema
+
+Below is a schema that describes a DB used in the exercises.
+
+![Schema image](images/schema-horizontal.png)
+
 ### Source of exercises
 
 https://pgexercises.com
